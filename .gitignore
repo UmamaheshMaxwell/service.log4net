@@ -1,0 +1,4 @@
+.vs
+packages/
+service.log4net/bin/
+service.log4net/obj/
